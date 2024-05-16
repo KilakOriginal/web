@@ -7,6 +7,11 @@
          url(../assets/FLIPclockblack.svg#svgFontName) format(svg); /* Legacy iOS */
 }
 
+*
+{
+    font-family: sans-serif;
+}
+
 body
 {
     display: flex;
@@ -21,4 +26,31 @@ body
     font-size: 7vw;
     font-family: flip-clock;
     color: #333;
+}
+
+footer
+{
+    position: fixed;
+    width: 50%;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    background: #e6e6e6;
+    color: #131313;
+    border-radius: 2rem 2rem 0 0;
+}
+
+footer a
+{
+    margin: 0 5vw;
+    text-decoration: none;
+    color: #131313;
+    font-weight: bold;
+}
+
+footer a:hover
+{
+    text-decoration: underline;
+    color: #4f4f4f;
 }
