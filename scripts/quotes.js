@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
             "They who dream by day are cognizant of many things which escape those who dream only by night.",
             "All we have to decide is what to do with the time that is given us.",
             "Hätte, hätte - Fahraddecke",
-            "Wer suchet, der findet; wer drauf tritt verschwindet."
+            "Wer suchet, der findet; wer drauftritt verschwindet."
         ],
         "attributions": [
             "Terry Davis",
