@@ -48,11 +48,6 @@ and (max-device-width: 600px)
     }
 }
 
-.spacer
-{
-    height: var(--footer-height);
-}
-
 footer
 {
     position: fixed;
@@ -68,7 +63,7 @@ footer
 
 footer a
 {
-    margin: 0 15px;
+    margin: 0 20px;
     text-decoration: none;
     color: #131313;
     font-weight: bold;
