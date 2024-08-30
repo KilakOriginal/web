@@ -9,6 +9,8 @@
 
 *
 {
+    --footer-height: 10px;
+
     font-family: sans-serif;
 }
 
@@ -23,15 +25,38 @@ body
 
 .clock
 {
-    font-size: 7vw;
+    font-size: 80pt;
     font-family: flip-clock;
     color: #333;
+}
+
+@media only screen 
+and (max-device-width: 600px)
+{
+    .clock 
+    {
+        font-size: 40pt;
+    }
+}
+
+@media only screen 
+and (max-device-width: 1000px) and (min-device-width: 601px)
+{
+    .clock 
+    {
+        font-size: 60pt;
+    }
+}
+
+.spacer
+{
+    height: var(--footer-height);
 }
 
 footer
 {
     position: fixed;
-    width: 50%;
+    height: var(--footer-height);
     bottom: 0;
     display: flex;
     justify-content: center;
@@ -43,7 +68,7 @@ footer
 
 footer a
 {
-    margin: 0 10%;
+    margin: 0 15px;
     text-decoration: none;
     color: #131313;
     font-weight: bold;
