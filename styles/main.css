@@ -19,7 +19,6 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
 }
 
@@ -28,6 +27,16 @@ body
     font-size: 80pt;
     font-family: flip-clock;
     color: #333;
+    margin-top: 30vh;
+}
+
+@media only screen 
+and (max-device-width: 1000px)
+{
+    .clock 
+    {
+        font-size: 60pt;
+    }
 }
 
 @media only screen 
@@ -36,15 +45,6 @@ and (max-device-width: 600px)
     .clock 
     {
         font-size: 40pt;
-    }
-}
-
-@media only screen 
-and (max-device-width: 1000px) and (min-device-width: 601px)
-{
-    .clock 
-    {
-        font-size: 60pt;
     }
 }
 
