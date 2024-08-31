@@ -14,7 +14,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "All we have to decide is what to do with the time that is given us.",
             "Hätte, hätte - Fahraddecke",
             "Wer suchet, der findet; wer drauftritt verschwindet.",
-            "I have to tell you now, that no such undertaking has been received and that consequently, this country is at war with Germany."
+            "I have to tell you now, that no such undertaking has been received and that consequently, this country is at war with Germany.",
+            "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will shepherds the weak through the valley of darkness for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee!"
             //"His action shows convincingly that there is no chance of expecting that this man will ever give up his practice of using force to gain his will. He can only be stopped by force."
         ],
         "attributions": [
@@ -31,7 +32,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "J.R.R. Tolkien/Gandalf",
             "Jonathan Apelt",
             "Kampfmittelbeseitigungsdienst Kiel",
-            "Neville Chamberlain"
+            "Neville Chamberlain",
+            "Quentin J. Tarantino"
         ]
     };
 

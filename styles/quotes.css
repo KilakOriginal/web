@@ -1,5 +1,5 @@
 .quotes-wrapper {
-    column-count: 4;
+    column-count: 5;
     column-gap: 25px;
     max-width: 90%;
     margin: 0 auto;
@@ -38,7 +38,13 @@
     font-size: 11pt;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1650px) {
+    .quotes-wrapper {
+        column-count: 4;
+    }
+}
+
+@media (max-width: 1350px) {
     .quotes-wrapper {
         column-count: 3;
     }
