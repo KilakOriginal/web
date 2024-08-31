@@ -13,7 +13,9 @@ document.addEventListener("DOMContentLoaded", function() {
             "They who dream by day are cognizant of many things which escape those who dream only by night.",
             "All we have to decide is what to do with the time that is given us.",
             "Hätte, hätte - Fahraddecke",
-            "Wer suchet, der findet; wer drauftritt verschwindet."
+            "Wer suchet, der findet; wer drauftritt verschwindet.",
+            "I have to tell you now, that no such undertaking has been received and that consequently, this country is at war with Germany."
+            //"His action shows convincingly that there is no chance of expecting that this man will ever give up his practice of using force to gain his will. He can only be stopped by force."
         ],
         "attributions": [
             "Terry Davis",
@@ -28,7 +30,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "Edgar Allen Poe",
             "J.R.R. Tolkien/Gandalf",
             "Jonathan Apelt",
-            "Kampfmittelbeseitigungsdienst Kiel"
+            "Kampfmittelbeseitigungsdienst Kiel",
+            "Neville Chamberlain"
         ]
     };
 
