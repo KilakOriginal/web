@@ -17,7 +17,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "Wer suchet, der findet; wer drauftritt verschwindet.",
             "I have to tell you now, that no such undertaking has been received and that consequently, this country is at war with Germany.",
             "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will shepherds the weak through the valley of darkness for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee!",
-            "Great things are not accomplished by those who yield to trends and fads."
+            "Great things are not accomplished by those who yield to trends and fads.",
+            "Just Monika."
             //"His action shows convincingly that there is no chance of expecting that this man will ever give up his practice of using force to gain his will. He can only be stopped by force."
             //"Never be afraid to fail. It's through failures that we learn and grow." "Leo Fender"
         ],
@@ -38,7 +39,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "Kampfmittelbeseitigungsdienst Kiel",
             "Neville Chamberlain",
             "Quentin J. Tarantino",
-            "Leo Fender"
+            "Leo Fender",
+            "Random Encounters"
         ]
     };
 
