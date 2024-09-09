@@ -13,15 +13,20 @@ document.addEventListener("DOMContentLoaded", function() {
             "Money, it's a crime - Share it fairly, but don't take a slice of my pie.",
             "They who dream by day are cognizant of many things which escape those who dream only by night.",
             "All we have to decide is what to do with the time that is given us.",
-            "Hätte, hätte - Fahraddecke",
+            "The way to get started is to quit talking and begin doing.",
             "Wer suchet, der findet; wer drauftritt verschwindet.",
             "I have to tell you now, that no such undertaking has been received and that consequently, this country is at war with Germany.",
             "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will shepherds the weak through the valley of darkness for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee!",
             "Great things are not accomplished by those who yield to trends and fads.",
             "Just Monika.",
-            "Everybody has a plan until they get punched in the face."
-            //"His action shows convincingly that there is no chance of expecting that this man will ever give up his practice of using force to gain his will. He can only be stopped by force."
+            "Everybody has a plan until they get punched in the face.",
+            "I'm pretty sure, I'm not a doctor, but I'm pretty sure if you die, the cancer dies at the same time. That's not a loss. That's a draw.",
+            "Es ist leichter zu kritisieren als zu regieren.",
+            "You don't need anybody to tell you who you are or what you are. You are what you are!"
+            //"Part of me suspects that I'm a loser, and the other part of me thinks I'm God Almighty." "John Lennon"
+            //"His action shows convincingly that there is no chance of expecting that this man will ever give up his practice of using force to gain his will. He can only be stopped by force." "Neville Chamberlain"
             //"Never be afraid to fail. It's through failures that we learn and grow." "Leo Fender"
+            //"Der Deutsche hat an und für sich eine starke Neigung zur Unzufriedenheit." "Otto von Bismarck"
         ],
         "attributions": [
             "Terry Davis",
@@ -31,18 +36,21 @@ document.addEventListener("DOMContentLoaded", function() {
             "Paul McCartney",
             "Leo Fender",
             "Johann Wolfgang von Goethe",
-            "LilyPichu",
+            "Lily Ki",
             "Jimmy Page",
             "Roger Waters",
             "Edgar Allen Poe",
             "J.R.R. Tolkien/Gandalf",
-            "Jonathan Apelt",
+            "Walter E. Disney",
             "Kampfmittelbeseitigungsdienst Kiel",
             "Neville Chamberlain",
             "Quentin J. Tarantino",
             "Leo Fender",
             "Random Encounters",
-            "Mike Tyson"
+            "Mike Tyson",
+            "Norm MacDonald",
+            "Otto von Bismarck",
+            "John Lennon"
         ]
     };
 
