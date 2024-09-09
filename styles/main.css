@@ -30,24 +30,6 @@ body
     margin-top: 30vh;
 }
 
-@media only screen 
-and (max-device-width: 1000px)
-{
-    .clock 
-    {
-        font-size: 60pt;
-    }
-}
-
-@media only screen 
-and (max-device-width: 600px)
-{
-    .clock 
-    {
-        font-size: 40pt;
-    }
-}
-
 footer
 {
     position: fixed;
@@ -73,4 +55,22 @@ footer a:hover
 {
     text-decoration: underline;
     color: #4f4f4f;
+}
+
+@media only screen 
+and (max-device-width: 1000px)
+{
+    .clock 
+    {
+        font-size: 60pt;
+    }
+}
+
+@media only screen 
+and (max-device-width: 600px)
+{
+    .clock 
+    {
+        font-size: 40pt;
+    }
 }
